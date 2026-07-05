@@ -44,11 +44,10 @@ Paste a list of gene symbols to build a multi-gene network. Features:
 
 | Dataset | Cells | Condition | Status |
 |---------|-------|-----------|--------|
-| **Brain Lysosome Atlas** | Mouse brain regions | LysoIP enrichment | Published — https://brainresilience.stanford.edu/lysosomal-brain-protein-atlas | DOI: 10.1016/j.cell.2025.12.012|
-| **iNeuron LysoIP** | iPSC-derived neurons (day 21) | LysoIP + Endo-IP | Published —  DOI: 10.1073/pnas.2419079121 (https://pubmed.ncbi.nlm.nih.gov/39636867/) |
-|**Multi-Cell Line Lysosomal Proteome ** | HEK293, HeLa, HuH-7, SH-SY5Y (human); MEF, NIH3T3 (mouse)| LysoIP (SPIONs), SILAC, 4 biological replicates/line| https://doi.org/10.1016/j.mcpro.2023.100509|  
+| **Brain Lysosome Atlas** | Mouse brain regions | LysoIP enrichment | Published — DOI: 10.1016/j.cell.2025.12.012 |
+| **iNeuron LysoIP** | iPSC-derived neurons (day 21) | LysoIP + Endo-IP | Published — DOI: 10.1073/pnas.2419079121 |
+| **Multi-Cell Line Lysosomal Proteome** | HEK293, HeLa, HuH-7, SH-SY5Y (human); MEF, NIH3T3 (mouse) | LysoIP (SPIONs), SILAC, 4 biological replicates/line | Published — DOI: 10.1016/j.mcpro.2023.100509 |
 | **LysoIP ±LLOMe (KP4)** | KP4 pancreatic cancer cells | ±LLOMe 0.5 mM, 15 min | **Unpublished** — Zoncu Lab |
-
 
 ---
 
@@ -78,4 +77,4 @@ Paste a list of gene symbols to build a multi-gene network. Features:
 
 ## Lab
 
-Developed in the **Winter Lab**, University of California Berkeley.
+Developed in the **Zoncu Lab**, University of California Berkeley.
