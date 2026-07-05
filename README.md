@@ -44,11 +44,11 @@ Paste a list of gene symbols to build a multi-gene network. Features:
 
 | Dataset | Cells | Condition | Status |
 |---------|-------|-----------|--------|
-| **Brain Lysosome Atlas** | Mouse brain regions | LysoIP enrichment | Published — [Schink et al., *Mol. Cell. Proteomics* 2023](https://doi.org/10.1016/j.mcpro.2023.100509) |
-| **iNeuron LysoIP** | iPSC-derived neurons (day 21) | LysoIP + Endo-IP | Published — [Hundley et al., *PNAS* 2024](https://pubmed.ncbi.nlm.nih.gov/39636867/) |
-| **LysoIP ±LLOMe (KP4)** | KP4 pancreatic cancer cells | ±LLOMe 0.5 mM, 15 min | **Unpublished** — Winter Lab |
+| **Brain Lysosome Atlas** | Mouse brain regions | LysoIP enrichment | Published — https://brainresilience.stanford.edu/lysosomal-brain-protein-atlas | DOI: 10.1016/j.cell.2025.12.012|
+| **iNeuron LysoIP** | iPSC-derived neurons (day 21) | LysoIP + Endo-IP | Published —  DOI: 10.1073/pnas.2419079121 (https://pubmed.ncbi.nlm.nih.gov/39636867/) |
+|**Multi-Cell Line Lysosomal Proteome ** | HEK293, HeLa, HuH-7, SH-SY5Y (human); MEF, NIH3T3 (mouse)| LysoIP (SPIONs), SILAC, 4 biological replicates/line| https://doi.org/10.1016/j.mcpro.2023.100509|  
+| **LysoIP ±LLOMe (KP4)** | KP4 pancreatic cancer cells | ±LLOMe 0.5 mM, 15 min | **Unpublished** — Zoncu Lab |
 
-The KP4 ±LLOMe dataset is the only available LysoIP proteomics experiment capturing the acute lysosomal membrane damage response.
 
 ---
 
@@ -63,9 +63,6 @@ The KP4 ±LLOMe dataset is the only available LysoIP proteomics experiment captu
 | **TheCellMap** | Pairwise CRISPR double-KO, HAP1 haploid cells | [Billmann et al., *Cell* 2026](https://doi.org/10.1016/j.cell.2026.03.044) |
 | **Human Protein Atlas** | v25 — tissue RNA/protein, single cell, cell lines | [proteinatlas.org](https://www.proteinatlas.org) |
 | **GTEx + FANTOM5** | Consensus RNA expression | [gtexportal.org](https://www.gtexportal.org) |
-| **Brain Lysosome Atlas** | Mouse brain LysoIP enrichment | [Schink et al., *MCP* 2023](https://doi.org/10.1016/j.mcpro.2023.100509) |
-| **iNeuron LysoIP** | iPSC neuron lysosomal proteome | [Hundley et al., *PNAS* 2024](https://pubmed.ncbi.nlm.nih.gov/39636867/) |
-| **LysoIP ±LLOMe KP4** | Unpublished — Winter Lab | — |
 | **UniProt** | Live annotation | [uniprot.org](https://www.uniprot.org) |
 | **Open Targets** | Disease associations, DepMap tissue context | [platform.opentargets.org](https://platform.opentargets.org) |
 
